@@ -9,8 +9,8 @@ body {
 }
 
 .link-block{
-  width: 100%;
-  margin: auto;
+  display: table;
+  margin: 0 auto;
 }
 
 .link-block a {
